@@ -1,0 +1,12 @@
+streamlit
+transformers
+tensorflow
+nltk
+tf-keras
+numpy
+pickle-mixin
+seaborn
+pandas
+matplotlib
+scikit_learn
+opencv_python_headless
